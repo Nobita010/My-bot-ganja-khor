@@ -12,13 +12,13 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "Ganja",
+	"prefix": "+",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": ["61550213144666"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -40,16 +40,17 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
-			"apiKey": ""
-		},
-		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
-		}
+			"email": "imdriad25@gmail.com",
+			"clientId": "249889492292-qff3skitvnud3hle736ugm3tt53fh1sg.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04l_q7zGN41-ECgYIARAAGAQSNwF-L9Ir-t_MXlcP231dJo3boIXhkCZj0wdxFRo6xNCEc36kzQhJ3uJwhmTeAVHizb1XofhvSHw",
+      "apiKey": ""
+    },
+    "gRecaptcha": {
+      "siteKey": "6LeYA1gpAAAAALcbHRIVGcL69QwgbXIbBZpvlJ3q",
+      "secretKey": "6LeYA1gpAAAAAI13alckf64lV0MfuEQf3EObX4ye"
+    }
+  },
 	},
 	"dashBoard": {
 		"enable": true,
